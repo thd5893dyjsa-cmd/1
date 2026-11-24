@@ -1,0 +1,13 @@
+{
+  "package": "smartkeyboard.pro.personal",
+  "channel": "personal",
+  "versionCode": 16,
+  "versionName": "16.0",
+  "message": "السلام عليكم ورحمة الله وبركاته.\nبسم الله الرحمن الرحيم، الحمد لله رب العالمين، والصلاة والسلام على أشرف الخلق أجمعين، سيدنا محمد وعلى آله وصحبه أجمعين. اللهم صل وزد وبارك على سيدنا محمد وعلى آله وصحبه أجمعين.\nمرحبًا بكم في الإصدار السادس عشر من تطبيق Comprehensive AI. يتضمن هذا الإصدار تحسينات في الإملاء والقراءة والرد الصوتي. إن شاء الله ينال إعجابكم هذا التحديث.",
+  "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/personal-v16.0/Comprehensive.AI-16.0-32bit-PERSONAL-KEYS.apk",
+  "sha256_32": "d4693f0b04feddc873c25a4fc797a4b37583acf0c5ff7ef5137b4aee5b4b007b",
+  "bytes32": 24001288,
+  "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/personal-v16.0/Comprehensive.AI-16.0-64bit-PERSONAL-KEYS.apk",
+  "sha256_64": "9ab6287dfe6f8d09146d0b768c5a56bdac7aadee075cbc859143f51462b026bc",
+  "bytes64": 24001289
+}
