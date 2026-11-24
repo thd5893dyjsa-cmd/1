@@ -1,13 +1,13 @@
 {
   "package": "smartkeyboard.pro.limited",
   "channel": "limited",
-  "versionCode": 15,
-  "versionName": "15.0",
-  "message": "السلام عليكم ورحمة الله وبركاته.\nبسم الله الرحمن الرحيم، الحمد لله رب العالمين، والصلاة والسلام على أشرف الخلق أجمعين، سيدنا محمد وعلى آله وصحبه أجمعين. اللهم صل وزد وبارك على سيدنا محمد وعلى آله وصحبه أجمعين.\nمرحبًا بكم في الإصدار الخامس عشر من تطبيق Comprehensive AI. يتضمن هذا الإصدار تحسينات في الإملاء والقراءة والرد الصوتي. إن شاء الله ينال إعجابكم هذا التحديث.",
-  "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v15.0/Comprehensive.AI-15.0.1-32bit-LIMITED-KEYS.apk",
-  "sha256_32": "81c361f6bb8f6f0924d81ad4d1d7d287e6a1fe41488ebd2228d1b2bae3bb3691",
+  "versionCode": 16,
+  "versionName": "16.0",
+  "message": "السلام عليكم ورحمة الله وبركاته.\nبسم الله الرحمن الرحيم، الحمد لله رب العالمين، والصلاة والسلام على أشرف الخلق أجمعين، سيدنا محمد وعلى آله وصحبه أجمعين. اللهم صل وزد وبارك على سيدنا محمد وعلى آله وصحبه أجمعين.\nمرحبًا بكم في الإصدار السادس عشر من تطبيق Comprehensive AI. يتضمن هذا الإصدار تحسينات في الإملاء والقراءة والرد الصوتي. إن شاء الله ينال إعجابكم هذا التحديث.",
+  "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v16.0/Comprehensive.AI-16.0-32bit-LIMITED-KEYS.apk",
+  "sha256_32": "fc800e821f578013566807bd4e38cbdff8d4a37bfabae7ee5cc1286114af956c",
   "bytes32": 24001288,
-  "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v15.0/Comprehensive.AI-15.0.1-64bit-LIMITED-KEYS.apk",
-  "sha256_64": "c69acce154f5508e856b1c75543624a8ff2d774c2bcea817cc7c3b0f0c784e0f",
+  "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v16.0/Comprehensive.AI-16.0-64bit-LIMITED-KEYS.apk",
+  "sha256_64": "ac948b74545cced153d850db362fdfc33b56fa06cd42f9b7552e6e3d396c0d5e",
   "bytes64": 24001289
 }
