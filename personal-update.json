@@ -1,13 +1,7 @@
 {
  "package": "smartkeyboard.pro.personal",
  "channel": "personal",
- "versionCode": 35,
- "versionName": "19.0",
- "message": "Comprehensive AI 19.0",
- "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v19.0-personal-vc35/Comprehensive.AI-19.0-64bit-PERSONAL-KEYS.apk",
- "sha256_32": "073491a762e9578b1acd03e0deecbb8a27fd5dfbd0a63ddd62e85a1d0baf411d",
- "bytes32": 64998602,
- "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v19.0-personal-vc35/Comprehensive.AI-19.0-64bit-PERSONAL-KEYS.apk",
- "sha256_64": "073491a762e9578b1acd03e0deecbb8a27fd5dfbd0a63ddd62e85a1d0baf411d",
- "bytes64": 64998602
+ "versionCode": 0,
+ "versionName": "",
+ "message": ""
 }
