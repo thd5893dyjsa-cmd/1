@@ -1,7 +1,13 @@
 {
  "package": "smartkeyboard.pro.limited",
  "channel": "limited",
- "versionCode": 0,
- "versionName": "",
- "message": ""
+ "versionCode": 34,
+ "versionName": "19.0",
+ "message": "Comprehensive AI 19.0",
+ "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v19.0-limited-vc34/Comprehensive.AI-19.0-64bit-LIMITED-KEYS.apk",
+ "sha256_32": "77e94a3206a354850b6281641c24a694e750373fab4aeef49c33d57f7a6971bc",
+ "bytes32": 64998600,
+ "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v19.0-limited-vc34/Comprehensive.AI-19.0-64bit-LIMITED-KEYS.apk",
+ "sha256_64": "77e94a3206a354850b6281641c24a694e750373fab4aeef49c33d57f7a6971bc",
+ "bytes64": 64998600
 }
