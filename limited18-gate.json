@@ -2,6 +2,7 @@
   "schema": 1,
   "package": "smartkeyboard.pro.limited",
   "target": "limited18-gate",
+  "versionCode": 25,
   "revision": 2,
   "paused": true,
   "notice": "stopped"
