@@ -2,6 +2,7 @@
   "schema": 1,
   "package": "smartkeyboard.pro.personal",
   "target": "personal19-gate",
+  "versionCode": 25,
   "revision": 1,
   "paused": false,
   "notice": "temporary"
