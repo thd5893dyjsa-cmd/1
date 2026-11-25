@@ -1,1 +1,10 @@
-{"schema":1,"package":"smartkeyboard.pro.personal","target":"personal18-gate","versionCode":25,"revision":3,"paused":true,"notice":"update_required"}
+{
+ "schema": 1,
+ "package": "smartkeyboard.pro.personal",
+ "target": "personal18-gate",
+ "versionCode": 25,
+ "revision": 4,
+ "paused": true,
+ "notice": "stopped",
+ "stopMessage": "تم إيقاف هذا الإصدار من اللوحة من قبل مطور التطبيق"
+}
