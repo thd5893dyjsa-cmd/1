@@ -1,1 +1,9 @@
-{"schema":1,"package":"smartkeyboard.pro.personal","target":"personal18-test","versionCode":18,"revision":3,"paused":false,"notice":"temporary"}
+{
+ "schema": 1,
+ "package": "smartkeyboard.pro.personal",
+ "target": "personal18-test",
+ "versionCode": 18,
+ "revision": 4,
+ "paused": true,
+ "notice": "stopped"
+}
