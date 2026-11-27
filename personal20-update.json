@@ -1,13 +1,13 @@
 {
   "package": "smartkeyboard.pro.personal",
   "channel": "personal",
-  "versionCode": 42,
-  "versionName": "21.1",
+  "versionCode": 43,
+  "versionName": "21.2",
   "message": "تحديث جديد للوحة متاح الآن.",
-  "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v21.1-personal/Comprehensive.AI-21.1-32bit-PERSONAL-KEYS.apk",
-  "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v21.1-personal/Comprehensive.AI-21.1-64bit-PERSONAL-KEYS.apk",
-  "sha256_32": "e2cf41fbaae4c42bfcb7888924166dab85e61bae3561ff249913282a798db85e",
-  "sha256_64": "e2cf41fbaae4c42bfcb7888924166dab85e61bae3561ff249913282a798db85e",
+  "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v21.2-personal/Comprehensive.AI-21.2-32bit-PERSONAL-KEYS.apk",
+  "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v21.2-personal/Comprehensive.AI-21.2-64bit-PERSONAL-KEYS.apk",
+  "sha256_32": "16c706132f3080dc90684c6f8800fc6ef51ab7439edc2dc40d7f53eb25835988",
+  "sha256_64": "16c706132f3080dc90684c6f8800fc6ef51ab7439edc2dc40d7f53eb25835988",
   "bytes32": 48497833,
   "bytes64": 48497833
 }
