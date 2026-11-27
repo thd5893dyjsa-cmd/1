@@ -1,13 +1,13 @@
 {
- "package": "smartkeyboard.pro.limited",
- "channel": "limited",
- "versionCode": 37,
- "versionName": "20.0",
- "message": "\u062a\u062d\u062f\u064a\u062b \u062c\u062f\u064a\u062f \u0644\u0644\u0648\u062d\u0629 \u0645\u062a\u0627\u062d \u0627\u0644\u0622\u0646.",
- "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.0-limited/Comprehensive.AI-20.0-LIMITED.apk",
- "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.0-limited/Comprehensive.AI-20.0-LIMITED.apk",
- "sha256_32": "9610ea7a1f993b2bbe67e82c7ccdbb19b23119b37b747bd43daa71836ac4c2c9",
- "sha256_64": "9610ea7a1f993b2bbe67e82c7ccdbb19b23119b37b747bd43daa71836ac4c2c9",
- "bytes32": 67998887,
- "bytes64": 67998887
+  "package": "smartkeyboard.pro.limited",
+  "channel": "limited",
+  "versionCode": 37,
+  "versionName": "20.0",
+  "message": "تحديث جديد للوحة متاح الآن.",
+  "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.0-limited/Comprehensive.AI-20.0-LIMITED.apk",
+  "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.0-limited/Comprehensive.AI-20.0-LIMITED.apk",
+  "sha256_32": "a51eb5e876c4aa1164676af812a6815cb351a091a885b5fae33600e04b5d606b",
+  "sha256_64": "a51eb5e876c4aa1164676af812a6815cb351a091a885b5fae33600e04b5d606b",
+  "bytes32": 67998887,
+  "bytes64": 67998887
 }
