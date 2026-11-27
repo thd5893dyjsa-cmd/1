@@ -1,0 +1,10 @@
+{
+ "schema": 1,
+ "package": "smartkeyboard.pro.limited",
+ "target": "limited20-gate",
+ "versionCode": 25,
+ "revision": 1,
+ "paused": false,
+ "notice": "temporary",
+ "stopMessage": ""
+}
