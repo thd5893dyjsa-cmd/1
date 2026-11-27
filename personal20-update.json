@@ -1,13 +1,13 @@
 {
   "package": "smartkeyboard.pro.personal",
   "channel": "personal",
-  "versionCode": 38,
-  "versionName": "20.1",
+  "versionCode": 39,
+  "versionName": "20.2",
   "message": "تحديث جديد للوحة متاح الآن.",
-  "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.1-personal/Comprehensive.AI-20.1-PERSONAL.apk",
-  "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.1-personal/Comprehensive.AI-20.1-PERSONAL.apk",
-  "sha256_32": "0e692b551783f0be70bb5b09ad04ff070368610d30da0d57da24ad0906c9240d",
-  "sha256_64": "0e692b551783f0be70bb5b09ad04ff070368610d30da0d57da24ad0906c9240d",
+  "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.2-personal/Comprehensive.AI-20.2-PERSONAL.apk",
+  "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.2-personal/Comprehensive.AI-20.2-PERSONAL.apk",
+  "sha256_32": "0a8cfd4222892fbbe6420769b2f9808130dfcbbc37f0229d89fb1b2e70a734c6",
+  "sha256_64": "0a8cfd4222892fbbe6420769b2f9808130dfcbbc37f0229d89fb1b2e70a734c6",
   "bytes32": 67998889,
   "bytes64": 67998889
 }
