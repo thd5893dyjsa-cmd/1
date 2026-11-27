@@ -1,13 +1,13 @@
 {
- "package": "smartkeyboard.pro.personal",
- "channel": "personal",
- "versionCode": 37,
- "versionName": "20.0",
- "message": "\u062a\u062d\u062f\u064a\u062b \u062c\u062f\u064a\u062f \u0644\u0644\u0648\u062d\u0629 \u0645\u062a\u0627\u062d \u0627\u0644\u0622\u0646.",
- "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.0-personal/Comprehensive.AI-20.0-PERSONAL.apk",
- "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.0-personal/Comprehensive.AI-20.0-PERSONAL.apk",
- "sha256_32": "0b0c56f113ad9d668182af70d38f9a4b93e88f4fd1c51832384c9584a7550ee0",
- "sha256_64": "0b0c56f113ad9d668182af70d38f9a4b93e88f4fd1c51832384c9584a7550ee0",
- "bytes32": 67998889,
- "bytes64": 67998889
+  "package": "smartkeyboard.pro.personal",
+  "channel": "personal",
+  "versionCode": 37,
+  "versionName": "20.0",
+  "message": "تحديث جديد للوحة متاح الآن.",
+  "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.0-personal/Comprehensive.AI-20.0-PERSONAL.apk",
+  "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v20.0-personal/Comprehensive.AI-20.0-PERSONAL.apk",
+  "sha256_32": "dc2ab96d75b6df046a0ec740cafecfa7c983f28664616e47ca39f8eb55bd8333",
+  "sha256_64": "dc2ab96d75b6df046a0ec740cafecfa7c983f28664616e47ca39f8eb55bd8333",
+  "bytes32": 67998889,
+  "bytes64": 67998889
 }
