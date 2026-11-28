@@ -1,13 +1,13 @@
 {
   "package": "smartkeyboard.pro.limited",
   "channel": "limited",
-  "versionCode": 1,
+  "versionCode": 51,
   "versionName": "22.0",
   "message": "تحديث جديد للوحة متاح الآن.",
-  "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v22.0-limited-r49/Comprehensive.AI-22.0-32bit-LIMITED-KEYS.apk",
-  "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v22.0-limited-r49/Comprehensive.AI-22.0-64bit-LIMITED-KEYS.apk",
-  "sha256_32": "f9b44cd94c80dc9695e66444d230349e1589d61651c6fa0c5edce9aa532e99d5",
-  "sha256_64": "f9b44cd94c80dc9695e66444d230349e1589d61651c6fa0c5edce9aa532e99d5",
+  "url32": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v22.0-limited-r51/Comprehensive.AI-22.0-32bit-LIMITED-KEYS.apk",
+  "url64": "https://github.com/thd5893dyjsa-cmd/1/releases/download/v22.0-limited-r51/Comprehensive.AI-22.0-64bit-LIMITED-KEYS.apk",
+  "sha256_32": "f1f60deba3476450b18479439b84ecfb0d8aac1e3baac8ad666b1fd4341c5ace",
+  "sha256_64": "f1f60deba3476450b18479439b84ecfb0d8aac1e3baac8ad666b1fd4341c5ace",
   "bytes32": 33985761,
   "bytes64": 33985761
 }
